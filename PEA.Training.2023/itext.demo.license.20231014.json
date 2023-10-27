@@ -1,0 +1,237 @@
+[
+  {
+    "product": "itext-core",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 8,
+      "minor": 0
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "KoDIeG5/kVtTIzSKp803SF8yAAK8ThTHVNWr1aDwxpPOz4KtmbMXwgOXPv235guctAHM2dE8IROP9bVR1fnfUI3mrqre5RYUFTDLkAr+yNL3rMchSLoN2tdQZZ9PYDWM2acVrVxMFsHuXK5VSrls4ewOprnrA+lumFPOdOCpvi84pIn6e8DEDQa4OXUrwBny/TKW4TlL8DCVABvQ//mgYdDdt/BSLuGkBuE8Wo9Lz8sRy9NzUY4EkSvbdK1iFG3NPSzxnE4cpVJfkAsnJH4coKqNi1ty1F2qjxolVbpf/TCGFqtd3wi8iMlrK1uZe96a1oA11DyL8RTtovZQSSS56RFD3x5aThA51DDDp31p5CPwK+fTk98yKpuvWDI6/YSBts3d/j5DJ5wz9iqX9lZLskiPuwyB9+x3S3b0+qoETVyre1s/gEGyYk0NBCAnIFwTHbTElmHfOhEl7TDp8wvp+nVceuxptiJgwvZZidnwl7rurvtyZIS2xIVBqbr5bq/fiXQDEau3o5kRz1cRxrNNbKfb3SiYTyY1gpVr9v1cZJ4U3Ppg7WAeYASMavOYkIMFWyk3EzaZEY+CS9l8J3BHL1pGSH1yWYjJD1PAkVBl45tI6BYO6gx0j2Lbb3NPyqGnGJ/Hp30ljkE5EWPH5fJOn+dbI1nXs43oHnGrKSvHYrM="
+  },
+  {
+    "product": "pdfXfa",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "AN0iVh+gyBeX+eZNl/vupm+EzfgpJa/Fq7AEoZ886hoMsQPa2M+LOANpg9LTy0/29LVKsOjezXlFWGdF9NGfPB+ETc2f3n6ta58BbHfEk4GY2Z1zif/HChphH18MfF/AX+i1XUz7gOMfkA1IMV3yuKLEHo9PMvdlyTTubhlE9jc0VbpQf0RfO+AplJmx2RtJyMWoLTb6IE8cb0JEGZA5OqzNCb1VUVDM3uM343/ZWC+Vd87fSoIccA7RnACUBUwB1Op3fiDe+wNYs66gifNL5zdd7yTSa1wyvFuqtD3VoFrKZ3oMIduPgD6CircY1enkZXFk7+Xj1lnqCPChqBxlcMkJIYX6Ly9ABAZu49eVlNxWgK0aYFHP+/DGxPabCJUNy1KVBxhJEEqqjBoUtW9+zxKanIi34hcDHKlfD7C+B+spl7a4MWmWT2meE8cNO3NWUoRqDuuctsrbD7T8gjBTj2PY12LRuHIUZ7q9qGQP4aN3HwPtfI02YEfC6RDbEFEkKsc1T3ZQ/xiEE//Sl5suzEGHVdHtEWtm7I/k9xjmNHaSggZKm/FChkGiKNYaOv4un9ai15G3nVIjudmY7MemOATwns6YSwZl0pJ4SnqCVpkULpwum0FFZm51A3nD1OC4hpeDAslrSkh4QhqtqUimqrPwxK9JZvCVkvPcbpYYXRc="
+  },
+  {
+    "product": "pdfSweep",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "TWDzrRrWeAys3DJTzYKP4p4bgHW9AlJoxX7y9uq/Hf4IK8rRyW1WstkuS8tudvv5SAceEUxuRsEax1lEdvaAqLqsdTLPrzfGYldSP26R6qE9VmJAz6lCxuuJBDTieHUu0kgy/4TDEGxeXORhkkXKtcfzXvHBezq9KQkavNC9KXnMElSl53rQLFK6T2vakypFVnSS0W6Ke4R8TohziSObC/iCSTMocP3ntO3NzVacvs0GMJC9P9YTmZbtFdTLJoICUzYZc0OUeCtkIdNaHom3riT+DVULqEiKbGMZb0KCJT34wuvRHc5cqsVbCvD2X6fCQ2Igsm3XOXth2zND49tRidOeoRpxhbBnYWCPzkB4d4OEz0xEUDcZyt53t9+9sQWVeoqwGFY+CWrlw+FgTJsFpV1C9tLUI3v/7Udu7iORZqftHm/gI/cznUJ1yMEnvb1rEUChEqifn5qSOmEqBTBpsqzSA0u/tX8enRSD8k08oVFUG/aVy0TDHNN1KEB6pZh7eDfPtWUSW6EtcZqVCUWM4lg0SdtpMSFm5UVMdBuooEFoPOjv391gtVlqfKGvoqwOnNGqtDPVdc9anTsBl/H6UnE2CbHumPU3TDfB0X9FtGwo98hyrGwg9sDX5Jjl+l79D3Ecm4uWrQKrCwK4cqNDVGx/BXmtd4Zzmvr7ACLWNPc="
+  },
+  {
+    "product": "pdfRender",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "a6J8i0RlsRhfD2LCO/bvdY63qABycqrVxXx1sU9pOFypVY6bkuCCaHC2qFpfkQWt5b7EMHRor3tRXy2WCS7MP7VB4oh0LXvx+k0pOCEMt0fPCrSOnWaUatBR4lfSCIXjkOk+jqITVdR9l5LTvk5ygD1oRtSS/I3QVV2CKbrQ5U5z/kkTPWYmqtBel4xN+AgS45y1YSv+p1+krRDwRTsDrzTKdbNRht47Xkc28NXvwg1piItaR+2yTQzTq8yDyjp4Iyeq/Q0WkNRmKdlCHWyiscEjKaeVVg4oVL+lXuF0jE0qhFhkXxeYGXJKbI6QxepGTPK8vs30JyRK8UEWOyCOW+f/GvLEMiV8NjwGYDdkd2PDsX6a16IWEKKJHu79U2pRnStL54hiZRwNKeZqiyyVce4VmHPXnk7yVtNwESrB5XY7l+HdKU9Fi0uT4N0UjZDG9dKwWhgIuYRvhjwy9LR6LWyC4BC4pkM3ribV5JPOcHQmav7kO6H+4DaJJ9BxTcxQKOKbVUkiPybyNj8uRA3jml3uHawbHdlZalUQm/tlY/GdflHS+NGP8MSgzP0oDqOI0TAlit9pQBv5YyxJnkrPdZPFUTqTzNsfq5sxIdEL6LURddLPkOdUhU/nEQRA/2O3BqQGJ/ETtI19YJUwY9/QDpCqxekQZlZMjUZcZo2M1t8="
+  },
+  {
+    "product": "pdfOcr-tesseract4",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "GYx9rbFO7lXXMT6WF+SnJwj+s5Dz4MeBSanflQG/mG1EDZ2eUXg4oUKXZKkhWyG0tU+uvW2c4EN3d0h+ROka19MU/b2MWp11sr8sGcFKftT9lCjw5KjeNQ4oJ9zpzwXMlv8V3CU5bEDjr9TD3speOwILpwB2icuSWKFpRAmKhyX48uCsTmcQgQuKjCIOnjI6Sa28A964h7v8o6DYDlRk9ztQYQjoNTsgyF/Rs6f11mJd/SZc+lZJ9DuazSINZkWtlt+k+Vx5Z9rRJc478DYadOKfUZ6C5SPdJZj0SgG2xSXU7KFIY3XmDSq78VNQ1Dq3zePJrdAxHsKbsdWk9aXPd4pBsBIQzrfWP1iX+lR3VPISzkLbdpuNmx3PyDw/EL0rf2V1idJgR06Cx0yoErmxiwqgW4zraUMkDlR6Ugt4MCo+hhy8PSTMYJKMEsTnOs32c5e2LvKqHR7EUAeRrWkc7jDstvTpHDKkBju+yv/Op11iOesLcPhekGS/1cNqNCbzsJf9utMOypwKN1ibigb7FDkIiEZkohtq98eWFxBizv8QxL9rOlHr4m7e6fEQinMGZbTYIe9q16apEeQhbW4KMJghCsXYN8H3ELfR8gj4b0vN7FTBuVdI4TmMHfaCHl0psj5xNa5YCpoLR8xQ/KIfyEO9dqz3FninJj6JLFQ/fqU="
+  },
+  {
+    "product": "pdfOptimizer",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 3
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "b1uC8bTRhN1A1BFBXrO31SgzpTU3LgaytuvgV2eDmlriHAJ1x7ICI3AWB4+W5WnwAede0jxueo4002xBP4rpzm9rBxDYI+9Fh9oWkGYJH8MYVOwUmUjuIsXL5M+0AtfUaSLeSsPNLkvpBwSUGfZkDWN/f0t0B/4xsq4ezsYIhNUdrP0RUUUh6zjk/IqwV9aVZpTPGqDBeIkmcbjEMxOsgeqZ/1oG2sCcjvC9FCQmgSxqoyXiC0n34NYB+QNaSq4O2hWSNCkpKSsnpRF4RQdPodozhR6DYbg+YhRb2T7RixN90D8JG77R6RMaMlZheZBYe/9+c5XbL6iLd3dhD0Al6x9u0QaQ4E/OegszxUxpqsSB/tI2bGH8WC7uuL52at8YRTdn2O4CFlKBY7VVRa2i8Lgr06b0Dbe6k124lV8W/rkjrJjPPKcdfKJT0lS73LAivHxEmIdu3zYyTYAa/dZGejo5j/z+mh9KdQnJRrpogggS+Hb8OpOHu7zQpelG6babGB9qrW+qTs+eUCmBeSrskApiBpFWpOAJBG4tQXI0NPy7TmomYcPG7Xc47EOiNpTQaxLb59D7jMV3pdoPADVFQb6dt+IwMYipu1OX8nfMevavFWMBuD8b9TpbZoLtPJJmqfgYqH9TlNoLAbyuqaR+YiN050yvErprhs3VlDaHW7Y="
+  },
+  {
+    "product": "pdfHtml",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 5
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "TlsQaYNZMn39sDxxNqLHsezPUrLEx1S8PMH1mHvcQ6vLPybpJK3zpvpdVFr6fFPxnNXOuyBnGed7CxQAVzdbPzh8KkYShj62xY7ThfRpOFxZ9/Fhvbm1Of2E/A1jNXIpSDpO4y1cgmDF1ZwshvXgEfmNGZnubHvBZ+8S3O228P6mqaDLtAARglw2nB75Bwb37o9P91h+j30FDYyPjUeI55MspxDn0dcnuCPy2UUiLP8q4oMY19rmXFXBJ7hc0wOoa4sUPyLS8qJPz+aZSNRJbgmZQRqJG5d5CMc4MT/t5yOW0IHCwT8WwEc1Q3QeaepQ79xcqK6djtV1R5yfum0lwf4j4pFNEpmg+8He/ZmlMA6FwnJsHmSeVtwf7/L/Poa4I4NP2keWN+NHbsm1pC+CxHb8Mj8UIXtSqc+kRgERDW0QGgYKb0RGZLgQIA0DK4utYf8/4MH8aeq2YPtoLRLsUDoXxApbTYwxR32s9cI+3hV8zQ/I1iShlLiV20e3P4o62vDJRd+G05fGk5NzwcTOlrrs7W7lZJWrEhbEcmxzFEMqyvqvCan/nax7ioxjKnv8vx1xyNMmbIr/qLnDHaeHApuBJxAPn5JKl9fgLhBQGdBsy4VBSbdAC54LVepdqZRbkZNgG8OG9f8H9nPVhaqzOb42XUgcTvW7W8Wu5dsna2c="
+  },
+  {
+    "product": "pdfCalligraph",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 4
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "ARNMv8Qk1bfKj4D6UM1zVCK7F+vY5vw+a0rkByFEfno6V70rlLBadc8JODWVA1w9zjFU5b7xzyq6JMic7sA7t+j9X+xw+0HvvipLWi2bFlupJkz2jcnDhiz4oLJRfitgeExQdDe31Rzl1Op1LgxXF0XB/EgsYe74MTXjEu7wZimWxkhRGLY/0oDDWA60Nug/FlR57/2gjYxbVpe1fdhc8Zgbl+LIWvjIeQKJcwm1YNX9+EThfbatvQIXsPuaAGBPN34h04ZFUffJcAoaU19NYIP0M83P12rMEAPnXwCGUNBLy1GilHxFH0GW2bA0fsws8AHx4k7lX4hB2tQeZY57OGzY2cLZD6U3n63GAbm2KCVu0dXmBHBlSglG/Iq02M+8mnZJMyYofQ5YIm8woTaJd+Jo4BkEcChJzSu5rP9IX/hB76EX3vdiTp9DzoGLQRYp4j9jmb6H3jzp+3x2zb1e7w6Pfxh5d5QkXDPQ0NGwlVQlnk4Jtm7JLbQc0fmcwTB5mpBn5Eq9cw7Quc0astjH2S0X6yM4U78OL0L1jsp1mD3enSjPE5mdAVXwpI2gWumtJZFIGfX4OAlNaFL8qHuLFpZpapMuKfV0ddCrJo13lc4TKlCy1/KA4KgcGn2FrY2484JPcqqRnnUdgR2zdrWKdotGqiSbsPPnnsqf40u9MwU="
+  },
+  {
+    "product": "pdfOffice",
+    "licensee": {
+      "company": "My Self",
+      "name": "Jaturon Pantasuma",
+      "email": "jaturon.pantasuma@gmail.com"
+    },
+    "key": "4fa02fe4553ad23399b59f011dab7d3dbf20a99dc723d6e5a02e7087ed6ba8a1",
+    "creationDate": "2023-10-14",
+    "expirationDate": "2023-11-14",
+    "onExpiration": "fail",
+    "platform": "any",
+    "licenseType": "trial",
+    "productVersion": {
+      "major": 2
+    },
+    "limits": {
+      "default": {
+        "limitType": "unlimited",
+        "sendEvents": false
+      }
+    },
+    "licenseVersion": "1.0.0",
+    "sendStatistics": "disabled",
+    "signature": "VNmIb3w90/AyYPtrvTO9p3ssMtn0r0ZlAhBh1YtEfuLCyBZnQjGUuCeVgP8GinOOqgi312whtKgo/D3iG1NkKXvCAup3s0pgBx6fM/ASz9zDOfu3V2FANclVH4PgXF9W7x+HT9IFSxMhsTfPJBRZSXs7/ZCiMTfPbSianQ2WAcWj33pbRW8ziSYK63h5QzT4zO6rVmiznpxvlhBPuAWkmeZf7Rjhwbg1zDbwBxsQA2CeMrvioam6TuG8HDmiTUIwT064ZY7X+LsZYyVYDKff1oVaa7n6XpSsv/ruhYO7R/N8jzQtJ3r6hD7shg8NgNP3DxzQRy390EiqdOMehIKVPdmz6jzwaNGGGEm5C9qTTs9qjSXeAOaQWOfxcQjPJrT1quiXRXz7sv3rnyTM3arAxeBBP3+jdR7OsqYYTCTUGf1FEwVco1R42HGdv8aGnYTdvNiC/7FPvm6VvDMvn8fbydtcXxU9SLTA0hlm6QfhZCQ6Ym7b89QxPrL/pBZo5kFaWDrHF7aQIUGHlNRc1HW4dLuf7Pw/YveAB5E4eb7tUdPqhpSbp8mdKZjCsbCO+qbVxxD7hVvQ30PhrDxwzyoq0mtIO2OugYIrsTbe9Yxo+5U5WojaBLOMCmzNnx92GnhYhpwyRpJVo9F3CVYFFawTzSt2af6wxWGMcj7yQk9zhUg="
+  }
+]
